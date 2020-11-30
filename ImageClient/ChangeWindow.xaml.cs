@@ -20,6 +20,8 @@ namespace ImageClient
     /// </summary>
     /// //sssssssssssss
     /// /ssssd
+    /// 
+    //sfdfdfsfas
     public partial class ChangeWindow : Window
     {
         public WebClient client;
